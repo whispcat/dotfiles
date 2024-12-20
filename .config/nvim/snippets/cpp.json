@@ -1,0 +1,18 @@
+{
+  "Competitive Programming C++ Template": {
+    "prefix": "cp",
+    "body": [
+      "#include <iostream>",
+      "using namespace std;",
+      "using ll = long long;",
+      "",
+      "int main() {",
+      "  ios::sync_with_stdio(false);",
+      "  cin.tie(nullptr);",
+      "  $0",
+      "  return 0;",
+      "}"
+    ],
+    "description": "Competitive Programming Template"
+  }
+}
